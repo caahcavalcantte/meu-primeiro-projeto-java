@@ -1,10 +1,8 @@
 public class TiposVariaveis {
 
   public static void main(String[] args) {
-   int numero = 5;
+    boolean variavel = true;
 
-   System.out.println(numero --);
-
-   System.out.print(numero);
+    System.out.println(!variavel);
   }
 }
