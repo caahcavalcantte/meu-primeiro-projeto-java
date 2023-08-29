@@ -5,7 +5,7 @@ public class TiposVariaveis {
 
     a = 6;
     b = 6;
-    String resultado = a==b ?"verdadeiro" : "falso";
+    String resultado = a==b ?"true" : "false";
 
      System.out.println(resultado);
   }
